@@ -2,12 +2,12 @@
 This is a basic Data Science project where we predict the survival of passengers aboard the Titanic using Machine Learning.
 
 # Table of Contents
--Project Description
--Workflow
--Technologies Used
--How to Run
--Results
--Acknowledgements
+(i) Project Description
+(ii) Workflow
+(iii) Technologies Used
+(iv) How to Run
+(v) Results
+(vi) Acknowledgements
 
 
 # Project Description
